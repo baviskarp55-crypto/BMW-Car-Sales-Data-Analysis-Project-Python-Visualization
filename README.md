@@ -1,0 +1,2 @@
+# BMW-Car-Sales-Data-Analysis-Project-Python-Visualization
+Just wrapped up an end-to-end data analytics project analyzing BMW car sales data to understand pricing trends, depreciation patterns, and buyer preferences in the luxury automobile segment.  In this project, I worked on the complete data pipeline starting from data cleaning and preprocessing to exploratory data analysis and insight generation. 
